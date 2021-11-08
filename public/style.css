@@ -1,9 +1,28 @@
-   .p1{
-        background-color: rgba(0, 255, 255, 0.5);
-    }
-    .p2{
-        background-color: rgba(40, 1, 55, 0.5);
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 20;
-    }
+.p1{
+    background-color: rgba(0, 255, 255, 0.5);
+}
+.p2{
+    background-color: rgba(40, 1, 55, 0.5);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20;
+}
+.p2 :hover{
+    background-color: cornflowerblue;
+}
 
+.monke{
+    width: 30%;
+    height: auto;
+    border-style: solid;
+    border-color: tan;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.legendas{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
